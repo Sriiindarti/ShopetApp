@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "367211419029",
+    "firebase_url": "https://shopet-644e8-default-rtdb.firebaseio.com",
+    "project_id": "shopet-644e8",
+    "storage_bucket": "shopet-644e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367211419029:android:40c3515b60ca85b1ee529c",
+        "android_client_info": {
+          "package_name": "com.example.shopetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367211419029-tgt0mnbcjh7hf1fq1ojumip6j7kc1o2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuKjlFLoMTkuFrQ_dBAu6qCWkJaFXv-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367211419029-tgt0mnbcjh7hf1fq1ojumip6j7kc1o2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367211419029:android:acb7253b5fea9b5dee529c",
+        "android_client_info": {
+          "package_name": "com.example.shopetapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367211419029-tgt0mnbcjh7hf1fq1ojumip6j7kc1o2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuKjlFLoMTkuFrQ_dBAu6qCWkJaFXv-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367211419029-tgt0mnbcjh7hf1fq1ojumip6j7kc1o2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367211419029:android:90766883351f4dccee529c",
+        "android_client_info": {
+          "package_name": "com.example.shopetdash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367211419029-tgt0mnbcjh7hf1fq1ojumip6j7kc1o2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuKjlFLoMTkuFrQ_dBAu6qCWkJaFXv-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367211419029-tgt0mnbcjh7hf1fq1ojumip6j7kc1o2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopet Application</string>
+    <string name="product">Product</string>
+    <string name="employee">Employee</string>
+    <string name="add_admin">Add Admin</string>
+
+    <string name="tambah">Add</string>
+    <string name="stock">Stock</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="product_name">Name Product</string>
+    <string name="tambah_data">Add Products</string>
+    <string name="no_phone">No Phone</string>
+    <string name="address">Address</string>
+    <string name="job_role">Job Role</string>
+    <string name="name">Name</string>
+</resources>
