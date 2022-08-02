@@ -9,3 +9,6 @@ Password : 123456
 Login Owner
 Username : owner@gmail.com
 Password : 123456
+
+#FYI
+This dashboard is also connected to the Website Dashboard in the previous project "SimpleCRUDFirebase_Shopet"
